@@ -1,0 +1,17 @@
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\bin\Debug\netcoreapp3.1\InterficiesGraficas.exe
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\bin\Debug\netcoreapp3.1\InterficiesGraficas.deps.json
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\bin\Debug\netcoreapp3.1\InterficiesGraficas.runtimeconfig.json
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\bin\Debug\netcoreapp3.1\InterficiesGraficas.runtimeconfig.dev.json
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\bin\Debug\netcoreapp3.1\InterficiesGraficas.dll
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\bin\Debug\netcoreapp3.1\InterficiesGraficas.pdb
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.csproj.AssemblyReference.cache
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.Form1.resources
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.Properties.Resources.resources
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.csproj.GenerateResource.cache
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.GeneratedMSBuildEditorConfig.editorconfig
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.AssemblyInfoInputs.cache
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.AssemblyInfo.cs
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.csproj.CoreCompileInputs.cache
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.dll
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.pdb
+F:\windows\Oriol Casals\programació\InterficiesGraficas\InterficiesGraficas\obj\Debug\netcoreapp3.1\InterficiesGraficas.genruntimeconfig.cache
